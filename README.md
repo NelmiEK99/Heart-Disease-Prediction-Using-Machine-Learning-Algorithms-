@@ -1,2 +1,4 @@
 # Heart-Disease-Prediction-Using-Machine-Learning-Algorithms-
- Literature Review and Data Analysis
+ Literature Review and Data Analysis :
+
+Heart disease is becoming more common every day at an unprecedented and exponential rate. It has been the leading cause of death worldwide for the past few decades. To identify heart diseases early and treat them successfully, it is crucial to find a reliable and accurate method for automating the task. Every day, the health care sector produces enormous amounts of data about patients and diseases. Processing massive quantities of data in the medical field requires the use of data science. Machine learning algorithms and techniques have been used on a variety of medical datasets to automate the analysis of complex data sets. This study evaluates the comparative survey of ML classification methods proposed to assist medical professionals in heart disease diagnosis prediction. Begin by providing an overview of machine learning and then, it gives an overview of the work that has already been done and gives an understanding of the current used techniques.
